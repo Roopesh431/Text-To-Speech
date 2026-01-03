@@ -1,0 +1,19 @@
+# Program is a user ready Text to voice convertor
+
+Availabe Voice Options:6 (3 Male,3 Female) Voices
+
+Each Voice has it own distinctive character like:
+    "male": "am_michael",       # Standard American Male
+    "female": "af_sarah",       # Standard American Female
+    "gentleman": "bm_george",   # Distinguished British Male (Deep/Formal)
+    "gentlewoman": "bf_emma",   # Elegant British Female (Formal)
+    "young": "af_bella",        # Higher pitch, softer (Closest to child/young adult)
+    "narrator": "am_adam"       # Good for reading books
+Following the cahracter each voice shows significant change in the voice
+
+We Will Get Option Choose A Voice after selection
+
+You got a option to include Text and when you given text after selection of voice the passage will be limited to lines and will take time to segment into lines and will generate the voice 
+
+# Generation of the voice will depend on amount of lines it gets declared 
+# Note: Few Words may be generated differently from the human level speaking
