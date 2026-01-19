@@ -67,12 +67,12 @@ Here is an example of the generation process.
 **1. The Interface:**
 The modern GUI allows you to select voices and speed without restarting the code.
 
-![GUI Interface](screenshots/gui_interface.png)
+<img width="672" height="272" alt="GUI image" src="https://github.com/user-attachments/assets/d6b18582-7bde-4bb2-8964-00abda9979f6" />
 
 **2. The Output:**
 Below is an example of the console log showing a successful generation.
 
-![Console Result](screenshots/console_demo.png)
+<img width="733" height="392" alt="Console Result" src="https://github.com/user-attachments/assets/658e2843-609f-444c-a678-16359c66280b" />
 
 ---
 
